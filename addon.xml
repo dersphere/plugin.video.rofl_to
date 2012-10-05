@@ -11,7 +11,9 @@
   <extension point="xbmc.addon.metadata">
     <language>en de</language>
     <platform>all</platform>
-    <summary lang="en"></summary>
-    <description lang="en"></description>
+    <summary lang="de">Luste Videos</summary>
+    <summary lang="en">Funny Videos</summary>
+    <description lang="de">Hier gibt es täglich neue Lustige Videos + Clips.</description>
+    <description lang="en">Daily updated funny videos + clips. Your #1 resource for fun videos.</description>
   </extension>
 </addon>
